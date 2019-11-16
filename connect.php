@@ -2,10 +2,10 @@
 
 /* Database config */
 
-$db_host		= '127.0.0.1';
-$db_user		= 'root';
-$db_pass		= 'cyber';
-$db_database    = 'truemercyafrica';
+$db_host		= '';
+$db_user		= '';
+$db_pass		= '';
+$db_database    = '';
 
 /* End config */
 
